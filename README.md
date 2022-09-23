@@ -1,5 +1,5 @@
 # Painel de Games
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devnilobrasil/CartolaLigas/blob/master/License) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devnilobrasil/painel-de-games/blob/master/LICENSE) 
 
 # Sobre o projeto
 
