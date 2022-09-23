@@ -1,0 +1,12 @@
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\bin\Debug\PainelGames_nbr.exe.config
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\bin\Debug\PainelGames_nbr.exe
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\bin\Debug\PainelGames_nbr.pdb
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.Properties.Resources.resources
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.csproj.GenerateResource.cache
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.csproj.CoreCompileInputs.cache
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.exe
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.pdb
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.jogo_da_velha.resources
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.frm_painel.resources
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.csproj.AssemblyReference.cache
+D:\C# Portfolio\PainelGames_nbr\PainelGames_nbr\obj\Debug\PainelGames_nbr.csproj.SuggestedBindingRedirects.cache
